@@ -4,4 +4,14 @@
     <string name="password">Password</string>
     <string name="login_credentials">Login credentials</string>
     <string name="signin">Sign in</string>
+    <string name="create_account">Create account</string>
+    <string name="register">Register</string>
+    <string name="registration_credentials">Registration credentials</string>
+    <string name="registration_successful">Registered successfully!</string>
+    <string name="login_success">Logged in successfully!</string>
+    <string name="error">An error had occured</string>
+    <string name="description">Enter a description for this event</string>
+    <string name="event_saved">Event was saved!</string>
+    <string name="create_event">Create event</string>
+    <string name="save">Save</string>
 </resources>

@@ -14,7 +14,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/login_credentials"/>
+            android:text="@string/registration_credentials"/>
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -34,16 +34,11 @@
             android:orientation="horizontal">
 
             <Button
-                android:id="@+id/signinButton"
+                android:id="@+id/registerButton"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/signin" />
+                android:text="@string/register" />
 
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/createAccountButton"
-                android:text="@string/create_account" />
 
         </LinearLayout>
 
