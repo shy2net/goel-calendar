@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "421437012930",
+    "firebase_url": "https://calendar-633cb.firebaseio.com",
+    "project_id": "calendar-633cb",
+    "storage_bucket": "calendar-633cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421437012930:android:d9a67481e2dbb09e",
+        "android_client_info": {
+          "package_name": "com.goel.calendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421437012930-b3f2h4d20oqdmpqd85v6p79tt9ggvjmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGJbSWMV93yVGCt4g6wtTiWt_1Ox1dGls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421437012930-b3f2h4d20oqdmpqd85v6p79tt9ggvjmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
