@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">calendar</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_credentials">Login credentials</string>
+    <string name="signin">Sign in</string>
+</resources>
